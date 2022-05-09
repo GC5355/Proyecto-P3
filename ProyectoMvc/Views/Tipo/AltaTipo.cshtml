@@ -1,0 +1,46 @@
+﻿@model ProyectoMvc.Models.ViewModelTipo
+
+@{
+    ViewData["Title"] = "AltaTipo";
+}
+
+<h1>Alta de Tipo</h1>
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AltaTipo">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Tipo.Nombre" class="control-label"></label>
+                <input asp-for="Tipo.Nombre" class="form-control" />
+                <span asp-validation-for="Tipo.Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tipo.Descripcion"  class="control-label"></label>
+                <input asp-for="Tipo.Descripcion"  class="form-control" />
+                <span asp-validation-for="Tipo.Descripcion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TipoDescripcionMax" hidden class="control-label"></label>
+                <input asp-for="TipoDescripcionMax" value="200" hidden class="form-control" />
+                <span asp-validation-for="TipoDescripcionMax" hidden class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TipoDescripcionMin" hidden class="control-label"></label>
+                <input asp-for="TipoDescripcionMin"  value="10" hidden class="form-control" />
+                <span asp-validation-for="TipoDescripcionMin" hidden class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Dar de alta"  class="btn btn-primary" />
+            </div>
+        </form>
+        <p>@ViewBag.Mensaje</p>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,19 @@
+﻿
+
+@{
+    ViewData["Title"] = "ConfirmarEliminacion";
+}
+
+<h1>Eliminacion de tipo de planta</h1>
+
+<form method="post" action="~/Tipo/EliminarTipo">
+
+    <br />
+    <input type="text" name="Nombre" />
+    <br />
+    <input type="submit" value="Eliminar" class="btn btn-primary" />
+
+</form>
+
+
+<p>@ViewBag.Mensaje</p>

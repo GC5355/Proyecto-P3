@@ -1,0 +1,140 @@
+﻿
+@model ProyectoMvc.Models.ViewModelPlanta
+@using Dominio.EntidadesNegocio
+@{
+    ViewData["Title"] = "BusquedaPlanta";
+}
+
+<h1>BusquedaPlanta</h1>
+
+
+<form enctype="multipart/form-data" asp-action="BusquedaPlantas">
+
+    <div class="form-group">
+        <select name="IdTipoSeleccionado" id="tipos">
+            <option value="=0">...</option>
+            @foreach (Dominio.EntidadesNegocio.Tipo t in Model.Tipos)
+            {
+                <option value="@t.Id">@t.Nombre</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Buscar" class="btn btn-primary" />
+    </div>
+</form>
+
+
+<h4>Busqueda por Ambiente</h4>
+<form enctype="multipart/form-data" asp-action="BusquedaPlantas">
+
+    <select name="AmbientePlanta">
+        <option selected="true" value="30" >...</option>
+        @foreach (var opcion in Enum.GetValues(typeof(Planta.Ambiente)))
+        {
+
+            int val = (int)opcion;
+            <option value="@val">@opcion.ToString()</option>
+        }
+    </select>
+    <div class="form-group">
+        <input type="submit" value="Buscar" class="btn btn-primary" />
+    </div>
+</form>
+
+
+
+<form enctype="multipart/form-data" asp-action="BusquedaPlantas">
+    <div class="form-group">
+        <label asp-for="IngresoTextoBusqueda" class="control-label">Ingreso texto</label>
+        <input asp-for="IngresoTextoBusqueda" class="form-control" />
+        <span asp-validation-for="IngresoTextoBusqueda" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Buscar" class="btn btn-primary" />
+    </div>
+</form>
+
+<p>Busqueda minima</p>
+<form enctype="multipart/form-data" asp-action="BusquedaPlantas">
+    <div class="form-group">
+       
+        <input asp-for="IngresoAlturaBusquedaMin" class="form-control" />
+        <span asp-validation-for="IngresoAlturaBusquedaMin" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Buscar" class="btn btn-primary" />
+    </div>
+</form>
+<p>Busqueda maxima</p>
+<form enctype="multipart/form-data" asp-action="BusquedaPlantas">
+    <div class="form-group">
+       
+        <input asp-for="IngresoAlturaBusquedaMax" class="form-control" />
+        <span asp-validation-for="IngresoAlturaBusquedaMax" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Buscar" class="btn btn-primary" />
+    </div>
+</form>
+
+
+
+@if (Model.listaPlantas != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Nombre Cientifico
+                </th>
+                <th>
+                    Nombres Vulgares
+                </th>
+                <th>
+                    Descripción
+                </th>
+                <th>
+                    Ambiente
+                </th>
+                <th>
+                    Altura
+                </th>
+                <th>
+                    Foto
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.listaPlantas)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NombreCientifico)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NombresVulgares)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Descripcion)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AmbientePlanta)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AlturaMax)
+                    </td>
+                    <td>
+                        <img src="~/imagenes/@item.Foto" height="70" />
+                    </td>
+                    <td>
+                        @Html.ActionLink("Ver cuidados", "MostrarFichaCuidados", new { id = item.Id })
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+

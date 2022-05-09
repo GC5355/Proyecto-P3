@@ -1,0 +1,109 @@
+﻿@model IEnumerable<Dominio.EntidadesNegocio.Planta>
+@using Dominio.EntidadesNegocio
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+<p>@ViewBag.Msj</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreCientifico)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AlturaMax)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.AmbientePlanta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+
+            <th>
+                Frecuencia Riego
+            </th>
+            <th>
+                Tiempo
+            </th>
+            <th>
+                Iluminacion
+            </th>
+
+            <th>
+                Nombre del Tipo
+            </th>
+            <th>
+                Descripcion
+            </th>
+            <th>
+                Foto
+            </th>
+            @*<th></th>*@
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NombreCientifico)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AlturaMax)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.AmbientePlanta)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descripcion)
+                </td>
+
+                <td>
+                    @item.Cuidado.FrecuenciaRiego
+                </td>
+                <td>
+                    @item.Cuidado.UnidadTiempo
+                </td>
+                <td>
+                    @item.Cuidado.Iluminacion
+                </td>
+
+                <td>
+                    @item.Tipo.Nombre
+                </td>
+                <td>
+                    @item.Tipo.Descripcion
+                </td>
+                <td>
+                    <img src="~/imagenes/@item.Foto" height="70" />
+                </td>
+                @*<td>
+                        @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                        @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                        @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                    </td>*@
+            </tr>
+
+
+        }
+
+
+
+    </tbody>
+</table>
+<p>@ViewBag.Msj</p>

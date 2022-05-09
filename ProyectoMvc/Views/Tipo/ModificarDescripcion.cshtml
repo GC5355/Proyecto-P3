@@ -1,0 +1,82 @@
+﻿@model ProyectoMvc.Models.ViewModelTipo
+
+@{
+    ViewData["Title"] = "ModificarDescripcion";
+}
+
+<h1>Modificar Descripcion</h1>
+
+
+
+@ViewBag.Confirmar
+
+@if (ViewBag.Mensaje == null)
+{
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="ModificarDescripcionTipo">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Nombre" class="control-label"></label>
+                    <input asp-for="Nombre" class="form-control" />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Buscar Tipo" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+}
+@ViewBag.Alerta
+
+
+@if (ViewBag.Mensaje != null)
+{
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="ConfirmarModificacion">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <input type="hidden" name="Nombre" value="@ViewBag.Mensaje.Nombre" />
+
+                </div>
+
+
+                <p>Id: @ViewBag.Mensaje.Id</p>
+
+
+                <p>Nombre: @ViewBag.Mensaje.Nombre</p>
+
+
+                <p>Descripcion actual:</p>
+
+                <div class="form-group">
+                    <label asp-for="TipoDescripcionMax" hidden class="control-label"></label>
+                    <input asp-for="TipoDescripcionMax" value="200" hidden class="form-control" />
+                    <span asp-validation-for="TipoDescripcionMax" hidden class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="TipoDescripcionMin" hidden class="control-label"></label>
+                    <input asp-for="TipoDescripcionMin" value="10" hidden class="form-control" />
+                    <span asp-validation-for="TipoDescripcionMin" hidden class="text-danger"></span>
+                </div>
+
+                <div>
+                    <input type="text" name="Descripcion" id="caracteres" value="@ViewBag.Mensaje.Descripcion" input />
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Actualizar descripcion" class="btn btn-primary" />
+                </div>
+
+            </form>
+        </div>
+    </div>
+
+
+
+}
+

@@ -1,0 +1,855 @@
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.exe
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.deps.json
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.runtimeconfig.json
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.runtimeconfig.dev.json
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.dll
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.pdb
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.Views.dll
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.Views.pdb
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.csproj.AssemblyReference.cache
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.AssemblyInfoInputs.cache
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.AssemblyInfo.cs
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.csproj.CoreCompileInputs.cache
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorAssemblyInfo.cache
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorAssemblyInfo.cs
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoMvc.StaticWebAssets.Manifest.cache
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoMvc.StaticWebAssets.xml
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProyectoMvc.styles.css
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.TagHelpers.input.cache
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.TagHelpers.output.cache
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorCoreGenerate.cache
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorTargetAssemblyInfo.cache
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorTargetAssemblyInfo.cs
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.Views.pdb
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.csproj.CopyComplete
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.dll
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.pdb
+C:\Fabian\ORT\3°Semestre\Programacion 3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.genruntimeconfig.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.exe
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.deps.json
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.runtimeconfig.json
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.runtimeconfig.dev.json
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.Views.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.Views.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\CasosUso.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\CasosUso.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.csproj.AssemblyReference.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.AssemblyInfoInputs.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.AssemblyInfo.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.csproj.CoreCompileInputs.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorAssemblyInfo.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorAssemblyInfo.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoMvc.StaticWebAssets.Manifest.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoMvc.StaticWebAssets.xml
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProyectoMvc.styles.css
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.TagHelpers.input.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.TagHelpers.output.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorCoreGenerate.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorTargetAssemblyInfo.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorTargetAssemblyInfo.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.Views.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.csproj.CopyComplete
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.genruntimeconfig.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\Index.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\Create.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\AltaTipo.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\Index.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\IndexBusqueda.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\IndexEliminar.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LogIn.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LogOut.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\BusquedaPlantas.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\2 - oblig\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\MostrarFichaCuidados.cshtml.g.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.exe
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.deps.json
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.runtimeconfig.json
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.runtimeconfig.dev.json
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.pdb
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.Views.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.Views.pdb
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\CasosUso.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Repositorios.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\CasosUso.pdb
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Repositorios.pdb
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.csproj.AssemblyReference.cache
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.AssemblyInfoInputs.cache
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.AssemblyInfo.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.csproj.CoreCompileInputs.cache
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorAssemblyInfo.cache
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorAssemblyInfo.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoMvc.StaticWebAssets.Manifest.cache
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoMvc.StaticWebAssets.xml
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProyectoMvc.styles.css
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.TagHelpers.input.cache
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.TagHelpers.output.cache
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorCoreGenerate.cache
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\BusquedaPlantas.cshtml.g.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\Create.cshtml.g.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\Index.cshtml.g.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\MostrarFichaCuidados.cshtml.g.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\AltaTipo.cshtml.g.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\Index.cshtml.g.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\IndexBusqueda.cshtml.g.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\IndexEliminar.cshtml.g.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LogIn.cshtml.g.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LogOut.cshtml.g.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorTargetAssemblyInfo.cache
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorTargetAssemblyInfo.cs
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.Views.pdb
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.csproj.CopyComplete
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.dll
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.pdb
+D:\Users\Emiliano\Desktop\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.genruntimeconfig.cache
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.exe
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.deps.json
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.runtimeconfig.json
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.runtimeconfig.dev.json
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.pdb
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.Views.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.Views.pdb
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\CasosUso.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\CasosUso.pdb
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.csproj.AssemblyReference.cache
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.AssemblyInfoInputs.cache
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.AssemblyInfo.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.csproj.CoreCompileInputs.cache
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorAssemblyInfo.cache
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorAssemblyInfo.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoMvc.StaticWebAssets.Manifest.cache
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoMvc.StaticWebAssets.xml
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProyectoMvc.styles.css
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.TagHelpers.input.cache
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.TagHelpers.output.cache
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorCoreGenerate.cache
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\BusquedaPlantas.cshtml.g.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\Create.cshtml.g.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\Index.cshtml.g.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\MostrarFichaCuidados.cshtml.g.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\AltaTipo.cshtml.g.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\ConfirmarEliminacion.cshtml.g.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\Index.cshtml.g.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\IndexBusqueda.cshtml.g.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\IndexEliminar.cshtml.g.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LogIn.cshtml.g.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LogOut.cshtml.g.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorTargetAssemblyInfo.cache
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorTargetAssemblyInfo.cs
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.Views.pdb
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.csproj.CopyComplete
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.dll
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.pdb
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.genruntimeconfig.cache
+C:\Users\59893\OneDrive\Escritorio\Final\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\ModificarDescripcion.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.exe
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.deps.json
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.runtimeconfig.json
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.runtimeconfig.dev.json
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.Views.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.Views.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\CasosUso.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\CasosUso.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.csproj.AssemblyReference.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.AssemblyInfoInputs.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.AssemblyInfo.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.csproj.CoreCompileInputs.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorAssemblyInfo.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorAssemblyInfo.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoMvc.StaticWebAssets.Manifest.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoMvc.StaticWebAssets.xml
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProyectoMvc.styles.css
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.TagHelpers.input.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.TagHelpers.output.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorCoreGenerate.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\BusquedaPlantas.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\Create.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\Index.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\MostrarFichaCuidados.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\AltaTipo.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\ConfirmarEliminacion.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\Index.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\IndexBusqueda.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\IndexEliminar.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\ModificarDescripcion.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LogIn.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LogOut.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorTargetAssemblyInfo.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorTargetAssemblyInfo.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.Views.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.csproj.CopyComplete
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\3 - obligatorio\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.genruntimeconfig.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.exe
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.deps.json
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.runtimeconfig.json
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.runtimeconfig.dev.json
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.Views.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ProyectoMvc.Views.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\CasosUso.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\CasosUso.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.csproj.AssemblyReference.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.AssemblyInfoInputs.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.AssemblyInfo.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.csproj.CoreCompileInputs.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorAssemblyInfo.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorAssemblyInfo.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoMvc.StaticWebAssets.Manifest.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoMvc.StaticWebAssets.xml
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProyectoMvc.styles.css
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.TagHelpers.input.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.TagHelpers.output.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorCoreGenerate.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\BusquedaPlantas.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\Create.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\Index.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Plantas\MostrarFichaCuidados.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\AltaTipo.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\ConfirmarEliminacion.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\Index.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\IndexBusqueda.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\IndexEliminar.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Tipo\ModificarDescripcion.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LogIn.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LogOut.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorTargetAssemblyInfo.cache
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.RazorTargetAssemblyInfo.cs
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.Views.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.csproj.CopyComplete
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.dll
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.pdb
+C:\Users\Don Tito\Desktop\Programacion\Programacion 3\Obligatorio 1\Entrega Obligatorio 1 - P3\Proyecto obligatorio1\ProyectoMvc\obj\Debug\netcoreapp3.1\ProyectoMvc.genruntimeconfig.cache

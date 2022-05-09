@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "LogIn";
+}
+
+<h1>Iniciar Sesion</h1>
+
+<form method="post" action="~/Usuario/Login">
+    <label>Email</label>
+    <input type="text" name="email" />
+    <br />
+    <label>Contraseña</label>
+    <input type="password" name="contrasenia" />
+    <br />
+    <input type="submit" value="Iniciar sesión" />
+</form>
+<p>@ViewBag.Mensaje</p>
+

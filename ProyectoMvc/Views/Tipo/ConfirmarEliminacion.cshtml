@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "ConfirmarEliminacion";
+}
+
+<h1>Confirmar Eliminacion</h1>
+
+<form method="post" action="~/Tipo/ConfirmarEliminacion">
+    @ViewBag.MuestroDatos
+    <br />
+    <input type="hidden" name="idVerificacionTipo" value="@ViewBag.IdParaVerificar" />
+    <br />
+    <input type="submit" value="Confirmar" class="btn btn-primary" />
+
+</form>
+
+
+<p>@ViewBag.Mensaje</p>

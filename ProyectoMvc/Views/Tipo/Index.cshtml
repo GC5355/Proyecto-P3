@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Dominio.EntidadesNegocio.Tipo>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Tipos de plantas disponibles</h1>
+@ViewBag.Mensaje
+@if (ViewBag.Mensaje ==null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Nombre)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Descripcion)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nombre)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Descripcion)
+                    </td>
+
+                </tr>
+            }
+
+
+        </tbody>
+
+
+    </table>
+}
+
+

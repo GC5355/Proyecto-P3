@@ -1,0 +1,129 @@
+﻿@model ProyectoMvc.Models.ViewModelPlanta
+@using Dominio.EntidadesNegocio
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Registrar Planta</h1>
+
+
+<hr />
+
+
+<p>@ViewBag.Msj</p>
+
+<div class="row">
+    <div class="col-md-4">
+        <form enctype="multipart/form-data" asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Planta.NombreCientifico" class="control-label"></label>
+                <input asp-for="Planta.NombreCientifico" class="form-control" />
+                <span asp-validation-for="Planta.NombreCientifico" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Planta.AlturaMax" class="control-label"></label>
+                <input asp-for="Planta.AlturaMax" class="form-control" />
+                <span asp-validation-for="Planta.AlturaMax" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PlantaDescripcionMax" hidden class="control-label"></label>
+                <input asp-for="PlantaDescripcionMax" hidden value="500" class="form-control" />
+                <span asp-validation-for="Planta.AlturaMax" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PlantaDescripcionMin" hidden class="control-label"></label>
+                <input asp-for="PlantaDescripcionMin" hidden value="10" class="form-control" />
+                <span asp-validation-for="Planta.AlturaMax" class="text-danger"></span>
+            </div>
+
+
+            <h4>Ambiente</h4>
+            <div class="form-group">
+                <select name="AmbientePlanta">
+                    @foreach (var opcion in Enum.GetValues(typeof(Planta.Ambiente)))
+                    {
+                        int val = (int)opcion;
+                        <option value="@val">@opcion.ToString()</option>
+                    }
+                </select>
+            </div>
+
+
+
+            <div class="form-group">
+                <label asp-for="Planta.Descripcion" class="control-label"></label>
+                <input asp-for="Planta.Descripcion" class="form-control" />
+                <span asp-validation-for="Planta.Descripcion" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NombreVulgar.Nombre" class="control-label"></label>
+                <input asp-for="NombreVulgar.Nombre" class="form-control" />
+                <span asp-validation-for="NombreVulgar.Nombre" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label>Foto: </label>
+                <input asp-for="Imagen" class="form-control" />
+            </div>
+
+            <h4>Tipo de planta</h4>
+            <div class="form-group">
+                <select name="IdTipoSeleccionado" id="tipos">
+                    @foreach (Dominio.EntidadesNegocio.Tipo t in Model.Tipos)
+                    {
+                        <option value="@t.Id">@t.Nombre</option>
+                    }
+                </select>
+            </div>
+
+
+            <h4>Ficha de Cuidados</h4>
+            <div class="form-group">
+                <label asp-for="FichaCuidado.FrecuenciaRiego" class="control-label"></label>
+                <input asp-for="FichaCuidado.FrecuenciaRiego" class="form-control" />
+                <span asp-validation-for="FichaCuidado.FrecuenciaRiego" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="FichaCuidado.Temperatura" class="control-label"></label>
+                <input asp-for="FichaCuidado.Temperatura" class="form-control" />
+                <span asp-validation-for="FichaCuidado.Temperatura" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FichaCuidado.UnidadTiempo" class="control-label"></label>
+                <input asp-for="FichaCuidado.UnidadTiempo" class="form-control" />
+                <span asp-validation-for="FichaCuidado.UnidadTiempo" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="FichaCuidado.Iluminacion" class="control-label"></label>
+                <select name="FichaCuidado.Iluminacion">
+                    @foreach (var opcion in Enum.GetValues(typeof(FichaCuidado.TipoIluminacion)))
+                    {
+                        int val = (int)opcion;
+                        <option value="@val">@opcion.ToString()</option>
+                    }
+                </select>
+            </div>
+
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
